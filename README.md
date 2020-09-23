@@ -28,4 +28,4 @@ Methodology:
   - VGG-19
   
 ## Conclusion
-After trying the 4 different algorithms to detect and distinguish pneumonia caused due to COVID-19, the VGG-19 model outperformed the other models and yielded an accuracy of 100%
+After trying the 4 different algorithms to detect and distinguish pneumonia caused due to COVID-19, the VGG-19 model outperformed the other models and yielded an accuracy of 99.86%
